@@ -29,12 +29,3 @@ A standalone tool for Red Dead Redemption 2 modding. It includes a Skeleton Merg
 1. Download the zip file from the Releases section on the right side of the GitHub page.
 2. Extract the folder to your computer.
 3. Open the folder and double-click Ilyxrls_Ped_Mechanic.exe to run the tool.
-
-### Running from Source Code
-
-If you want to run the raw Python script, open your terminal and install the interface tool first:
-
-```bash
-pip install customtkinter
-python Ilyxrls_Ped_Mechanic.py
-```
