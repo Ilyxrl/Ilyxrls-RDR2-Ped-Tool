@@ -37,9 +37,9 @@ ERROR         = "#FF4444"
 INSTRUCTIONS_TEXT = """\
 SKELETON MERGER
   Load two .yft.xml files (extracted with CodeX).
-  File 1 is the "donor" skeleton — missing bones will be copied FROM here.
-  File 2 is the "base" skeleton — it receives the new bones.
-  Click RUN SKELETON MERGE. Output is saved to the auto-generated Output/ folder.
+  Click RUN SKELETON MERGE. 
+  After click on ''Save As'' and choose where you want the file to go
+  Then import the .yft.xml back into the game using CodeX, it will be made a binary .yft again. 
 
 YMT ASSET SWAPPER
   Load a Donor .ymt and a Receiver .ymt.
@@ -51,8 +51,6 @@ YMT ASSET SWAPPER
 TIPS
   • Drag & drop .xml / .ymt files directly onto the entry fields.
   • Right-click any entry field to copy or clear the path.
-  • Use the filter boxes to search within large outfit lists.
-  • Recent files are remembered under File → Recent.
 """
 
 CREDITS_TEXT = """\
