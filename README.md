@@ -6,7 +6,7 @@ A standalone tool for Red Dead Redemption 2 modding. It includes a Skeleton Merg
 
 ### Skeleton Merger
 
-- Scans a donor file and copies missing bones into your base skeleton file.
+- Scans a .yft.xml file and copies missing bones into another .yft.xml file. 
 - Fixes bone numbers and connections so the game does not crash.
 - Shows the total bone count of your files automatically.
 
