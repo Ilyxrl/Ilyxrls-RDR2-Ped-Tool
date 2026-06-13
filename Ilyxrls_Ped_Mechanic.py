@@ -39,7 +39,7 @@ SKELETON MERGER
   Load two .yft.xml files (extracted with CodeX).
   Click RUN SKELETON MERGE. 
   After click on ''Save As'' and choose where you want the file to go
-  Then import the .yft.xml back into the game using CodeX, it will be made a binary .yft again. 
+  Then import the .yft.xml back into the game using CodeX, it will be made a fragment .yft again. 
 
 YMT ASSET SWAPPER
   Load a Donor .ymt and a Receiver .ymt.
